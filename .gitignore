@@ -1,0 +1,8 @@
+.env
+.env.*
+*.apk
+*.aab
+*.jks
+*.keystore
+credentials.json
+node_modules/

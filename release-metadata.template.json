@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "platform": "android",
+  "distribution": "public",
+  "androidPackage": "com.messmate.app",
+  "latestVersion": "REPLACE_WITH_APK_VERSION_NAME",
+  "latestVersionCode": 0,
+  "minimumSupportedVersionCode": 0,
+  "releaseNotes": "REPLACE_WITH_TESTED_CHANGES",
+  "downloadUrl": "REPLACE_WITH_PUBLISHED_ASSET_BROWSER_DOWNLOAD_URL",
+  "mandatoryUpdate": false,
+  "minimumAndroidApi": 0,
+  "universalApk": true
+}
